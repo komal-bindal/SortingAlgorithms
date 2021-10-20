@@ -16,7 +16,7 @@ public class InsertionSort {
 
     /**
      * Insertion Sort - It is stable and in-place algorithm.
-     * Time Complexity - O(n^2)
+     * Time Complexity - O(n^2) (best - n, worst - n^2)
      * Space Complexity - O(1) -> (in-place)
      *
      * @param arr - array to be sorted
